@@ -9,7 +9,6 @@ function loopElements(array){
 
 const capElement = function(element){
     element.toUpperCase();
-    console.log(element);
     return element;
 }
 
